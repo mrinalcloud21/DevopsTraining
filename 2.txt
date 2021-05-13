@@ -1,0 +1,3 @@
+Hello team ! This is a new file for Git Practice .
+Thank You !
+
